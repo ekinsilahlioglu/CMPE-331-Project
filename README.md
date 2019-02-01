@@ -1,2 +1,2 @@
 # CMPE-331-Project
-Student Information System
+Building a Student Information System for computer based app.
